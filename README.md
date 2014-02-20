@@ -2,6 +2,7 @@ SoundStream
 ===========
 
 4/19/14
+########
 Currently in prototype-only phase. This means that the software has known bugs, known crash causes, etc etc. No warranty is issued of any kind - USE AT YOUR OWN RISK.
 
 Binary-only atm. Windows-only.
