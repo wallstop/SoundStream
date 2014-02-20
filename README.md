@@ -1,6 +1,6 @@
 SoundStream
 ===========
-SoundStream is a Client-Server program that streams whatever sound is playing on one computer to another computer over the network, with the goal of doing this with as little introduced latency as possible.
+SoundStream is a Client-Server program that streams whatever sound is playing on one computer to another computer over the network, with as little introduced latency as possible.
 
 
 4/19/14
