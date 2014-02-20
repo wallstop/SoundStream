@@ -5,6 +5,7 @@ SoundStream is a Client-Server program that streams whatever sound is playing on
 What's Coming:
 --------------
 * GUIs (and a QT dependency...)
+* Automatic interpolation
 * Start / stop streaming or listening at will
 * Less bugs & crashes
 * More adaptable (higher quality) sound reproduction
