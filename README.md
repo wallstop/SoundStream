@@ -25,7 +25,7 @@ Where 192.168.1.2 is the IP of the computer that you wish to stream to (local ne
 
 Note: Currently the client defaults to listening on 4444, so make sure you match up the client and server
 
-On the comptuer that you wish to listen from, simply double click on "ssClient.exe". If you want to specify a port, navigate to the command window and run:
+On the computer that you wish to listen from, simply double click on "ssClient.exe". If you want to specify a port, navigate to the command window and run:
 ```cmd
 ssClient.exe 4444
 ```
