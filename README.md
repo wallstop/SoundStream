@@ -5,7 +5,7 @@ SoundStream is a Client-Server program that streams whatever sound is playing on
 
 2/19/14
 ------------------
-Currently in prototype-only phase.This means that the software has known bugs, known crash causes, etc etc. No warranty is issued of any kind - 
+Currently in prototype phase (pre-alpha).This means that the software has known bugs, known crash causes, etc etc. No warranty is issued of any kind - 
 
 _USE AT YOUR OWN RISK._
 It's probably fine.
