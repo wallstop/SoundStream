@@ -21,6 +21,8 @@ It's probably fine.
 
 Binary-only atm. Post Windows Vista only.
 
+CURRENTLY ONLY OFFICIALLY SUPPORTING 16 Bit 48KHz FOR CLIENT AND SERVER. Otherwise it might be bad.
+
 To use:
 On the computer that you wish to use as a "sound source", open up a command window where "SoundStream_server.exe" is located, and run the following:
 ```cmd
