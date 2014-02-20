@@ -31,6 +31,8 @@ ssClient.exe 4444
 ```
 Where 4444 is whatever port you'd like to listen on.
 
+The client and the server can both be run on the same computer: simply make sure the ip's match up, or use loopback (127.0.0.1)
+
 To close the server, press enter in the command window. Pressing ctrl-c in either the ssClient or the ssServer command window will probably force-close all threads of execution. Worst case, close the windows and go into task manager.
 
 
