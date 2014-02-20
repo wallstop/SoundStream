@@ -2,6 +2,15 @@ SoundStream
 ===========
 SoundStream is a Client-Server program that streams whatever sound is playing on one computer to another computer over the network, with as little introduced latency as possible.
 
+What's Coming:
+--------------
+* GUIs (and a QT dependency...)
+* Start / stop streaming or listening at will
+* Less bugs & crashes
+* More adaptable (higher quality) sound reproduction
+* Audio device chooser (currently only works with default)
+* Performance improvements all around
+* Source code
 
 2/19/14
 ------------------
